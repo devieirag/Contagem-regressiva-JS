@@ -1,0 +1,55 @@
+body {
+
+background-color: rgb(48, 48, 48);
+color: rgb(239, 235, 228);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+
+}
+
+header {
+
+    color: rgb(239, 235, 228);
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw;
+    margin-top: 20px;
+
+
+}
+
+.dbrp {
+
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 20px;
+
+}
+
+@media only screen and (max-width: 1103px) and (min-width: 50px) { 
+
+header {
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 1.46%;
+        grid-auto-columns: 32.86%;
+
+
+
+    }
+
+    .dbrp {
+
+        display: grid;
+        grid-auto-flow: column;
+        margin-top: 1.46%;
+
+    }
+
+
+
+
+}
+
