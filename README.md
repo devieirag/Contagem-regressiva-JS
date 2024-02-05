@@ -6,7 +6,7 @@
 <h1>Descrição:</h1>
 <ul>
 <li>
-Este repositório abriga um projeto web simples, desenvolvido em HTML, CSS e JavaScript, que exibe um contador de contagem regressiva para o primeiro de janeiro de 2025. Uma aplicação leve e visualmente atraente para marcar o tempo que falta para o próximo ano.
+Este repositório abriga um projeto web simples, desenvolvido em HTML, CSS e JavaScript, que exibe um contador de contagem regressiva para o primeiro de janeiro de 2025, Também podendo ser alterado para outras datas. Uma aplicação leve e visualmente atraente para marcar o tempo que falta para o próximo ano.
 </li>
 </ul>
 
