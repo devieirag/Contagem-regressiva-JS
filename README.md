@@ -28,6 +28,6 @@ Este repositório abriga um projeto web simples, desenvolvido em HTML, CSS e Jav
 <h1>Palavras-chave:</h1>
 <ul>
 <li>#HTML, #CSS, #JavaScript, #Web, #Contador, #ContagemRegressiva, #Temporizador, #ProjetoPessoal.</li>
+<li>Explore, utilize e adapte conforme necessário! Contagem regressiva para novos começos!</li>
 </ul>
 
-Explore, utilize e adapte conforme necessário! Contagem regressiva para novos começos!
