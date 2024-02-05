@@ -1,6 +1,6 @@
 # Contador de Contagem Regressiva para 1º de Janeiro de 2025
 <ul>
-<li>Projeto feito em HTML, CSS e Java Script para testar conhecimentos e procedimentos básicos das linguagens web</li>
+<li>Explore, utilize e adapte conforme necessário! Contagem regressiva para novos começos!</li>
 </ul>
 
 <h1>Descrição:</h1>
@@ -25,9 +25,11 @@ Este repositório abriga um projeto web simples, desenvolvido em HTML, CSS e Jav
 <li>Observe o contador regressivo até o primeiro de janeiro de 2025.</li>
 </ol>
 
+
+
+
 <h1>Palavras-chave:</h1>
 <ul>
 <li>#HTML, #CSS, #JavaScript, #Web, #Contador, #ContagemRegressiva, #Temporizador, #ProjetoPessoal.</li>
-<li>Explore, utilize e adapte conforme necessário! Contagem regressiva para novos começos!</li>
 </ul>
 
