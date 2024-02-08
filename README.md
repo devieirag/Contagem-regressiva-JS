@@ -14,12 +14,14 @@ Este repositório abriga um projeto web simples, desenvolvido em HTML, CSS e Jav
 
 <ul>
 <li>Contagem regressiva em dias, horas, minutos e segundos.</li>
-<li>Design moderno e responsivo.</li>
+<li>Design moderno e responsivo.
 <p>Desktop:</p>
-<img src="src/assets/resp_pc.png" width="73%">
+<img src="src/assets/resp_pc.png" width="60%">
+</li>
+<li>Fácil integração em outros projetos.
 <p>Tablets/mobile:</p>
-<img src="src/assets/resp_cel.jpg" width="25%">
-<li>Fácil integração em outros projetos.</li>
+<img src="src/assets/resp_cel.jpg" width="30%">
+</li>
 </ul>
 
 <h1>Como Utilizar:</h1>
